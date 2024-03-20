@@ -5,7 +5,7 @@
   "source": "@site/docs/Evaluation/Evaluation.md",
   "sourceDirName": "Evaluation",
   "slug": "/Evaluation/",
-  "permalink": "/docs/Evaluation/",
+  "permalink": "/Pathlit-Docs/docs/Evaluation/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Evaluation/Evaluation.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Evaluation",
-    "permalink": "/docs/category/evaluation"
+    "permalink": "/Pathlit-Docs/docs/category/evaluation"
   },
   "next": {
     "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "permalink": "/Pathlit-Docs/docs/category/tutorial---basics"
   }
 }

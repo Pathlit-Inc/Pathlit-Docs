@@ -5,7 +5,7 @@
   "source": "@site/docs/Getting Started/Starting The App.md",
   "sourceDirName": "Getting Started",
   "slug": "/Getting Started/Starting The App",
-  "permalink": "/docs/Getting Started/Starting The App",
+  "permalink": "/Pathlit-Docs/docs/Getting Started/Starting The App",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Getting Started/Starting The App.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "LLM App Installation Guide",
-    "permalink": "/docs/Getting Started/Installation"
+    "permalink": "/Pathlit-Docs/docs/Getting Started/Installation"
   },
   "next": {
     "title": "Chat UI",
-    "permalink": "/docs/category/chat-ui"
+    "permalink": "/Pathlit-Docs/docs/category/chat-ui"
   }
 }

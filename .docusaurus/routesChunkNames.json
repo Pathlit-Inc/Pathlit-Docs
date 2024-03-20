@@ -1,312 +1,269 @@
 {
-  "/__docusaurus/debug-afa": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/Pathlit-Docs/blog-087": {
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---docusaurus-debuga-5-d-62c"
-    }
-  },
-  "/__docusaurus/debug/config-651": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debuga-5-d-62c"
-    }
-  },
-  "/__docusaurus/debug/content-555": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debuga-5-d-62c"
+      "plugin": "4c0b4458"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-3d9": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debuga-5-d-62c"
-    }
-  },
-  "/__docusaurus/debug/metadata-c74": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debuga-5-d-62c"
-    }
-  },
-  "/__docusaurus/debug/registry-c18": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debuga-5-d-62c"
-    }
-  },
-  "/__docusaurus/debug/routes-2f2": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debuga-5-d-62c"
-    }
-  },
-  "/blog-e0a": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---blog-4-c-0-fa6"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "9825621e"
   },
-  "/blog/archive-9c4": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/Pathlit-Docs/blog/archive-824": {
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-4-c-0-fa6"
+      "plugin": "4c0b4458"
     },
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "e0be95d0"
   },
-  "/blog/first-blog-post-90d": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/Pathlit-Docs/blog/first-blog-post-59c": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---blog-4-c-0-fa6"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
-  "/blog/long-blog-post-813": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/Pathlit-Docs/blog/long-blog-post-091": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---blog-4-c-0-fa6"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
-  "/blog/mdx-blog-post-33b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/Pathlit-Docs/blog/mdx-blog-post-8d5": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---blog-4-c-0-fa6"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
-  "/blog/tags-deb": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+  "/Pathlit-Docs/blog/tags-766": {
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-4-c-0-fa6"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "sidebar": "814f3328",
+    "tags": "3ae26e12"
   },
-  "/blog/tags/docusaurus-18c": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/Pathlit-Docs/blog/tags/docusaurus-e9d": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-4-c-0-fa6"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---blog-tags-docusaurusa-80-728",
-    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
+    "tag": "294b0591",
+    "listMetadata": "afd7d714"
   },
-  "/blog/tags/facebook-be7": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/Pathlit-Docs/blog/tags/facebook-09c": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-4-c-0-fa6"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       }
     ],
-    "tag": "tag---blog-tags-facebook-031-c52",
-    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
+    "tag": "d68cfc79",
+    "listMetadata": "b2818267"
   },
-  "/blog/tags/hello-071": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/Pathlit-Docs/blog/tags/hello-739": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-4-c-0-fa6"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       }
     ],
-    "tag": "tag---blog-tags-hello-30-a-bed",
-    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+    "tag": "38814554",
+    "listMetadata": "0b6ef7ca"
   },
-  "/blog/tags/hola-46c": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/Pathlit-Docs/blog/tags/hola-56f": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-4-c-0-fa6"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---blog-tags-holae-16-18a",
-    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
+    "tag": "6c953f21",
+    "listMetadata": "b37a920a"
   },
-  "/blog/welcome-9a1": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/Pathlit-Docs/blog/welcome-df3": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---blog-4-c-0-fa6"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
-  "/markdown-page-ec9": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/Pathlit-Docs/markdown-page-132": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-page-14-d-c8c"
+      "plugin": "14dccccd"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
-  "/my-react-page-6d8": {
-    "__comp": "__comp---site-src-pages-my-react-page-jsf-85-e77",
+  "/Pathlit-Docs/my-react-page-345": {
+    "__comp": "f8551aab",
     "__context": {
-      "plugin": "plugin---markdown-page-14-d-c8c"
+      "plugin": "14dccccd"
     },
-    "config": "config---my-react-page-5-e-9-dcc"
+    "config": "5e9f5e1a"
   },
-  "/docs-fde": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/Pathlit-Docs/docs-f0f": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docs-1-ea-7d6"
+      "plugin": "1ea42fe7"
     }
   },
-  "/docs-ceb": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---docs-935-398"
+  "/Pathlit-Docs/docs-c10": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
   },
-  "/docs-385": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/Pathlit-Docs/docs-cc4": {
+    "__comp": "a94703ab"
   },
-  "/docs/category/chat-ui-2d0": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-chat-ui-572-8fc"
+  "/Pathlit-Docs/docs/category/chat-ui-bb6": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "c6105b0c"
   },
-  "/docs/category/evaluation-b07": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-evaluation-260-87a"
+  "/Pathlit-Docs/docs/category/evaluation-d4c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "a71d668f"
   },
-  "/docs/category/getting-started-01f": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-getting-started-315-9c6"
+  "/Pathlit-Docs/docs/category/getting-started-f7f": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "57441452"
   },
-  "/docs/category/settings-a03": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-settings-98-d-f61"
+  "/Pathlit-Docs/docs/category/settings-83c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f6124b75"
   },
-  "/docs/category/tutorial---basics-d44": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basicsea-8-8c8"
+  "/Pathlit-Docs/docs/category/tutorial---basics-68d": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "ceb5e1eb"
   },
-  "/docs/category/tutorial---extras-f09": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
+  "/Pathlit-Docs/docs/category/tutorial---extras-75f": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "6290e9f8"
   },
-  "/docs/category/workflows-331": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-workflows-653-4ae"
+  "/Pathlit-Docs/docs/category/workflows-f89": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "a48825e6"
   },
-  "/docs/Chat UI/Models-945": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chat-ui-models-53-c-22a"
+  "/Pathlit-Docs/docs/Chat UI/Models-ce3": {
+    "__comp": "17896441",
+    "content": "53c210e9"
   },
-  "/docs/Chat UI/Settings/Advanced Settings-b1b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chat-ui-settings-advanced-settings-0-ea-b54"
+  "/Pathlit-Docs/docs/Chat UI/Settings/Advanced Settings-4a9": {
+    "__comp": "17896441",
+    "content": "0ea63630"
   },
-  "/docs/Chat UI/Settings/Basic Settings-c44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chat-ui-settings-basic-settings-61-e-e8b"
+  "/Pathlit-Docs/docs/Chat UI/Settings/Basic Settings-663": {
+    "__comp": "17896441",
+    "content": "61ec04ae"
   },
-  "/docs/Chat UI/What is Chat UI-91b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chat-ui-what-is-chat-u-ie-54-b7f"
+  "/Pathlit-Docs/docs/Chat UI/What is Chat UI-9c4": {
+    "__comp": "17896441",
+    "content": "e5434b47"
   },
-  "/docs/Evaluation/-cfb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-evaluation-b-8-b-eef"
+  "/Pathlit-Docs/docs/Evaluation/-bd5": {
+    "__comp": "17896441",
+    "content": "b8ba9964"
   },
-  "/docs/Getting Started/Installation-00a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-installation-69-f-467"
+  "/Pathlit-Docs/docs/Getting Started/Installation-f0e": {
+    "__comp": "17896441",
+    "content": "69f30b93"
   },
-  "/docs/Getting Started/Starting The App-604": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-starting-the-appd-33-e17"
+  "/Pathlit-Docs/docs/Getting Started/Starting The App-53c": {
+    "__comp": "17896441",
+    "content": "d3375646"
   },
-  "/docs/intro-aed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+  "/Pathlit-Docs/docs/intro-8f7": {
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
-  "/docs/tutorial-basics/congratulations-793": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+  "/Pathlit-Docs/docs/tutorial-basics/congratulations-e15": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
   },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+  "/Pathlit-Docs/docs/tutorial-basics/create-a-blog-post-b93": {
+    "__comp": "17896441",
+    "content": "533a09ca"
   },
-  "/docs/tutorial-basics/create-a-document-c2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
+  "/Pathlit-Docs/docs/tutorial-basics/create-a-document-449": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
   },
-  "/docs/tutorial-basics/create-a-page-f44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
+  "/Pathlit-Docs/docs/tutorial-basics/create-a-page-d67": {
+    "__comp": "17896441",
+    "content": "5c868d36"
   },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
+  "/Pathlit-Docs/docs/tutorial-basics/deploy-your-site-1d5": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
   },
-  "/docs/tutorial-basics/markdown-features-4b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
+  "/Pathlit-Docs/docs/tutorial-basics/markdown-features-635": {
+    "__comp": "17896441",
+    "content": "18c41134"
   },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+  "/Pathlit-Docs/docs/tutorial-extras/manage-docs-versions-f71": {
+    "__comp": "17896441",
+    "content": "dff1c289"
   },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+  "/Pathlit-Docs/docs/tutorial-extras/translate-your-site-82c": {
+    "__comp": "17896441",
+    "content": "e44a2883"
   },
-  "/docs/Workflows/Workflow-4e5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-workflows-workflow-6-eb-43d"
+  "/Pathlit-Docs/docs/Workflows/Workflow-4cd": {
+    "__comp": "17896441",
+    "content": "6eb480d0"
   },
-  "/-ad7": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+  "/Pathlit-Docs/-465": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---markdown-page-14-d-c8c"
+      "plugin": "14dccccd"
     },
-    "config": "config---my-react-page-5-e-9-dcc"
+    "config": "5e9f5e1a"
   }
 }

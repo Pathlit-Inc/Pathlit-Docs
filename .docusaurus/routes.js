@@ -3,258 +3,223 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'afa'),
+    path: '/Pathlit-Docs/blog',
+    component: ComponentCreator('/Pathlit-Docs/blog', '087'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '651'),
+    path: '/Pathlit-Docs/blog/archive',
+    component: ComponentCreator('/Pathlit-Docs/blog/archive', '824'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '555'),
+    path: '/Pathlit-Docs/blog/first-blog-post',
+    component: ComponentCreator('/Pathlit-Docs/blog/first-blog-post', '59c'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '3d9'),
+    path: '/Pathlit-Docs/blog/long-blog-post',
+    component: ComponentCreator('/Pathlit-Docs/blog/long-blog-post', '091'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'c74'),
+    path: '/Pathlit-Docs/blog/mdx-blog-post',
+    component: ComponentCreator('/Pathlit-Docs/blog/mdx-blog-post', '8d5'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'c18'),
+    path: '/Pathlit-Docs/blog/tags',
+    component: ComponentCreator('/Pathlit-Docs/blog/tags', '766'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '2f2'),
+    path: '/Pathlit-Docs/blog/tags/docusaurus',
+    component: ComponentCreator('/Pathlit-Docs/blog/tags/docusaurus', 'e9d'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'e0a'),
+    path: '/Pathlit-Docs/blog/tags/facebook',
+    component: ComponentCreator('/Pathlit-Docs/blog/tags/facebook', '09c'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '9c4'),
+    path: '/Pathlit-Docs/blog/tags/hello',
+    component: ComponentCreator('/Pathlit-Docs/blog/tags/hello', '739'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '90d'),
+    path: '/Pathlit-Docs/blog/tags/hola',
+    component: ComponentCreator('/Pathlit-Docs/blog/tags/hola', '56f'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '813'),
+    path: '/Pathlit-Docs/blog/welcome',
+    component: ComponentCreator('/Pathlit-Docs/blog/welcome', 'df3'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '33b'),
+    path: '/Pathlit-Docs/markdown-page',
+    component: ComponentCreator('/Pathlit-Docs/markdown-page', '132'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'deb'),
+    path: '/Pathlit-Docs/my-react-page',
+    component: ComponentCreator('/Pathlit-Docs/my-react-page', '345'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '18c'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'be7'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '071'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '46c'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '9a1'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'ec9'),
-    exact: true
-  },
-  {
-    path: '/my-react-page',
-    component: ComponentCreator('/my-react-page', '6d8'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'fde'),
+    path: '/Pathlit-Docs/docs',
+    component: ComponentCreator('/Pathlit-Docs/docs', 'f0f'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', 'ceb'),
+        path: '/Pathlit-Docs/docs',
+        component: ComponentCreator('/Pathlit-Docs/docs', 'c10'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '385'),
+            path: '/Pathlit-Docs/docs',
+            component: ComponentCreator('/Pathlit-Docs/docs', 'cc4'),
             routes: [
               {
-                path: '/docs/category/chat-ui',
-                component: ComponentCreator('/docs/category/chat-ui', '2d0'),
+                path: '/Pathlit-Docs/docs/category/chat-ui',
+                component: ComponentCreator('/Pathlit-Docs/docs/category/chat-ui', 'bb6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/evaluation',
-                component: ComponentCreator('/docs/category/evaluation', 'b07'),
+                path: '/Pathlit-Docs/docs/category/evaluation',
+                component: ComponentCreator('/Pathlit-Docs/docs/category/evaluation', 'd4c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/getting-started',
-                component: ComponentCreator('/docs/category/getting-started', '01f'),
+                path: '/Pathlit-Docs/docs/category/getting-started',
+                component: ComponentCreator('/Pathlit-Docs/docs/category/getting-started', 'f7f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/settings',
-                component: ComponentCreator('/docs/category/settings', 'a03'),
+                path: '/Pathlit-Docs/docs/category/settings',
+                component: ComponentCreator('/Pathlit-Docs/docs/category/settings', '83c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
+                path: '/Pathlit-Docs/docs/category/tutorial---basics',
+                component: ComponentCreator('/Pathlit-Docs/docs/category/tutorial---basics', '68d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
+                path: '/Pathlit-Docs/docs/category/tutorial---extras',
+                component: ComponentCreator('/Pathlit-Docs/docs/category/tutorial---extras', '75f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/workflows',
-                component: ComponentCreator('/docs/category/workflows', '331'),
+                path: '/Pathlit-Docs/docs/category/workflows',
+                component: ComponentCreator('/Pathlit-Docs/docs/category/workflows', 'f89'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Chat UI/Models',
-                component: ComponentCreator('/docs/Chat UI/Models', '945'),
+                path: '/Pathlit-Docs/docs/Chat UI/Models',
+                component: ComponentCreator('/Pathlit-Docs/docs/Chat UI/Models', 'ce3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Chat UI/Settings/Advanced Settings',
-                component: ComponentCreator('/docs/Chat UI/Settings/Advanced Settings', 'b1b'),
+                path: '/Pathlit-Docs/docs/Chat UI/Settings/Advanced Settings',
+                component: ComponentCreator('/Pathlit-Docs/docs/Chat UI/Settings/Advanced Settings', '4a9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Chat UI/Settings/Basic Settings',
-                component: ComponentCreator('/docs/Chat UI/Settings/Basic Settings', 'c44'),
+                path: '/Pathlit-Docs/docs/Chat UI/Settings/Basic Settings',
+                component: ComponentCreator('/Pathlit-Docs/docs/Chat UI/Settings/Basic Settings', '663'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Chat UI/What is Chat UI',
-                component: ComponentCreator('/docs/Chat UI/What is Chat UI', '91b'),
+                path: '/Pathlit-Docs/docs/Chat UI/What is Chat UI',
+                component: ComponentCreator('/Pathlit-Docs/docs/Chat UI/What is Chat UI', '9c4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Evaluation/',
-                component: ComponentCreator('/docs/Evaluation/', 'cfb'),
+                path: '/Pathlit-Docs/docs/Evaluation/',
+                component: ComponentCreator('/Pathlit-Docs/docs/Evaluation/', 'bd5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Getting Started/Installation',
-                component: ComponentCreator('/docs/Getting Started/Installation', '00a'),
+                path: '/Pathlit-Docs/docs/Getting Started/Installation',
+                component: ComponentCreator('/Pathlit-Docs/docs/Getting Started/Installation', 'f0e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Getting Started/Starting The App',
-                component: ComponentCreator('/docs/Getting Started/Starting The App', '604'),
+                path: '/Pathlit-Docs/docs/Getting Started/Starting The App',
+                component: ComponentCreator('/Pathlit-Docs/docs/Getting Started/Starting The App', '53c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', 'aed'),
+                path: '/Pathlit-Docs/docs/intro',
+                component: ComponentCreator('/Pathlit-Docs/docs/intro', '8f7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '793'),
+                path: '/Pathlit-Docs/docs/tutorial-basics/congratulations',
+                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-basics/congratulations', 'e15'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '68e'),
+                path: '/Pathlit-Docs/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-basics/create-a-blog-post', 'b93'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'c2d'),
+                path: '/Pathlit-Docs/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-basics/create-a-document', '449'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'f44'),
+                path: '/Pathlit-Docs/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-basics/create-a-page', 'd67'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
+                path: '/Pathlit-Docs/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-basics/deploy-your-site', '1d5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
+                path: '/Pathlit-Docs/docs/tutorial-basics/markdown-features',
+                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-basics/markdown-features', '635'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
+                path: '/Pathlit-Docs/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-extras/manage-docs-versions', 'f71'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+                path: '/Pathlit-Docs/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-extras/translate-your-site', '82c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Workflows/Workflow',
-                component: ComponentCreator('/docs/Workflows/Workflow', '4e5'),
+                path: '/Pathlit-Docs/docs/Workflows/Workflow',
+                component: ComponentCreator('/Pathlit-Docs/docs/Workflows/Workflow', '4cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -265,8 +230,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'ad7'),
+    path: '/Pathlit-Docs/',
+    component: ComponentCreator('/Pathlit-Docs/', '465'),
     exact: true
   },
   {

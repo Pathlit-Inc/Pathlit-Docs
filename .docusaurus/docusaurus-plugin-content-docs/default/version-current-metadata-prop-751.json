@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Pathlit AI",
-        "href": "/docs/intro",
+        "href": "/Pathlit-Docs/docs/intro",
         "docId": "intro",
         "unlisted": false
       },
@@ -25,19 +25,19 @@
           {
             "type": "link",
             "label": "LLM App Installation Guide",
-            "href": "/docs/Getting Started/Installation",
+            "href": "/Pathlit-Docs/docs/Getting Started/Installation",
             "docId": "Getting Started/Installation",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Starting The App",
-            "href": "/docs/Getting Started/Starting The App",
+            "href": "/Pathlit-Docs/docs/Getting Started/Starting The App",
             "docId": "Getting Started/Starting The App",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/getting-started"
+        "href": "/Pathlit-Docs/docs/category/getting-started"
       },
       {
         "type": "category",
@@ -48,7 +48,7 @@
           {
             "type": "link",
             "label": "Welcome to Pathlit Chat UI",
-            "href": "/docs/Chat UI/What is Chat UI",
+            "href": "/Pathlit-Docs/docs/Chat UI/What is Chat UI",
             "docId": "Chat UI/What is Chat UI",
             "unlisted": false
           },
@@ -61,29 +61,29 @@
               {
                 "type": "link",
                 "label": "Basic Settings for Chat UI",
-                "href": "/docs/Chat UI/Settings/Basic Settings",
+                "href": "/Pathlit-Docs/docs/Chat UI/Settings/Basic Settings",
                 "docId": "Chat UI/Settings/Basic Settings",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Advanced Settings for Chat UI",
-                "href": "/docs/Chat UI/Settings/Advanced Settings",
+                "href": "/Pathlit-Docs/docs/Chat UI/Settings/Advanced Settings",
                 "docId": "Chat UI/Settings/Advanced Settings",
                 "unlisted": false
               }
             ],
-            "href": "/docs/category/settings"
+            "href": "/Pathlit-Docs/docs/category/settings"
           },
           {
             "type": "link",
             "label": "Models",
-            "href": "/docs/Chat UI/Models",
+            "href": "/Pathlit-Docs/docs/Chat UI/Models",
             "docId": "Chat UI/Models",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/chat-ui"
+        "href": "/Pathlit-Docs/docs/category/chat-ui"
       },
       {
         "type": "category",
@@ -94,12 +94,12 @@
           {
             "type": "link",
             "label": "Workflow",
-            "href": "/docs/Workflows/Workflow",
+            "href": "/Pathlit-Docs/docs/Workflows/Workflow",
             "docId": "Workflows/Workflow",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/workflows"
+        "href": "/Pathlit-Docs/docs/category/workflows"
       },
       {
         "type": "category",
@@ -110,12 +110,12 @@
           {
             "type": "link",
             "label": "Evaluation Page Documentation",
-            "href": "/docs/Evaluation/",
+            "href": "/Pathlit-Docs/docs/Evaluation/",
             "docId": "Evaluation/Evaluation",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/evaluation"
+        "href": "/Pathlit-Docs/docs/category/evaluation"
       },
       {
         "type": "category",
@@ -126,47 +126,47 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
+            "href": "/Pathlit-Docs/docs/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
+            "href": "/Pathlit-Docs/docs/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
+            "href": "/Pathlit-Docs/docs/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
+            "href": "/Pathlit-Docs/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
+            "href": "/Pathlit-Docs/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
+            "href": "/Pathlit-Docs/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/tutorial---basics"
+        "href": "/Pathlit-Docs/docs/category/tutorial---basics"
       },
       {
         "type": "category",
@@ -177,19 +177,19 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
+            "href": "/Pathlit-Docs/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
+            "href": "/Pathlit-Docs/docs/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/tutorial---extras"
+        "href": "/Pathlit-Docs/docs/category/tutorial---extras"
       }
     ]
   },

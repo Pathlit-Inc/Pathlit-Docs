@@ -1,133 +1,133 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/Pathlit-Docs/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/Pathlit-Docs/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "Chat UI/Models",
-              "path": "/docs/Chat UI/Models",
+              "path": "/Pathlit-Docs/docs/Chat UI/Models",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Chat UI/Settings/Advanced Settings",
-              "path": "/docs/Chat UI/Settings/Advanced Settings",
+              "path": "/Pathlit-Docs/docs/Chat UI/Settings/Advanced Settings",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Chat UI/Settings/Basic Settings",
-              "path": "/docs/Chat UI/Settings/Basic Settings",
+              "path": "/Pathlit-Docs/docs/Chat UI/Settings/Basic Settings",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Chat UI/What is Chat UI",
-              "path": "/docs/Chat UI/What is Chat UI",
+              "path": "/Pathlit-Docs/docs/Chat UI/What is Chat UI",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Evaluation/Evaluation",
-              "path": "/docs/Evaluation/",
+              "path": "/Pathlit-Docs/docs/Evaluation/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Getting Started/Installation",
-              "path": "/docs/Getting Started/Installation",
+              "path": "/Pathlit-Docs/docs/Getting Started/Installation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Getting Started/Starting The App",
-              "path": "/docs/Getting Started/Starting The App",
+              "path": "/Pathlit-Docs/docs/Getting Started/Starting The App",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/Pathlit-Docs/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "path": "/Pathlit-Docs/docs/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "path": "/Pathlit-Docs/docs/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "path": "/Pathlit-Docs/docs/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "path": "/Pathlit-Docs/docs/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "path": "/Pathlit-Docs/docs/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "path": "/Pathlit-Docs/docs/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "path": "/Pathlit-Docs/docs/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "path": "/Pathlit-Docs/docs/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Workflows/Workflow",
-              "path": "/docs/Workflows/Workflow",
+              "path": "/Pathlit-Docs/docs/Workflows/Workflow",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/getting-started",
-              "path": "/docs/category/getting-started",
+              "path": "/Pathlit-Docs/docs/category/getting-started",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/chat-ui",
-              "path": "/docs/category/chat-ui",
+              "path": "/Pathlit-Docs/docs/category/chat-ui",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/settings",
-              "path": "/docs/category/settings",
+              "path": "/Pathlit-Docs/docs/category/settings",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/workflows",
-              "path": "/docs/category/workflows",
+              "path": "/Pathlit-Docs/docs/category/workflows",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/evaluation",
-              "path": "/docs/category/evaluation",
+              "path": "/Pathlit-Docs/docs/category/evaluation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "path": "/Pathlit-Docs/docs/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "path": "/Pathlit-Docs/docs/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -135,7 +135,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/Pathlit-Docs/docs/intro",
                 "label": "intro"
               }
             }

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpathlit_docs=self.webpackChunkpathlit_docs||[]).push([[2988],{2388:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/Pathlit-Docs/blog/tags/hola","allTagsPath":"/Pathlit-Docs/blog/tags","count":1,"unlisted":false}')}}]);

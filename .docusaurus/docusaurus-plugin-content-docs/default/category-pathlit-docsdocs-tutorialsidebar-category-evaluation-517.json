@@ -1,0 +1,16 @@
+{
+  "title": "Evaluation",
+  "description": "Evaluation",
+  "slug": "/category/evaluation",
+  "permalink": "/Pathlit-Docs/docs/category/evaluation",
+  "navigation": {
+    "previous": {
+      "title": "Workflow",
+      "permalink": "/Pathlit-Docs/docs/Workflows/Workflow"
+    },
+    "next": {
+      "title": "Evaluation Page Documentation",
+      "permalink": "/Pathlit-Docs/docs/Evaluation/"
+    }
+  }
+}
