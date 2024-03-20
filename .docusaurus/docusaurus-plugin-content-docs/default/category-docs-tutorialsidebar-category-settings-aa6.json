@@ -1,0 +1,16 @@
+{
+  "title": "Settings",
+  "description": "Settings Information",
+  "slug": "/category/settings",
+  "permalink": "/docs/category/settings",
+  "navigation": {
+    "previous": {
+      "title": "Welcome to Pathlit Chat UI",
+      "permalink": "/docs/Chat UI/What is Chat UI"
+    },
+    "next": {
+      "title": "Basic Settings for Chat UI",
+      "permalink": "/docs/Chat UI/Settings/Basic Settings"
+    }
+  }
+}

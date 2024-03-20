@@ -53,11 +53,27 @@
             "unlisted": false
           },
           {
-            "type": "link",
-            "label": "Advanced Settings",
-            "href": "/docs/Chat UI/Advanced Settings",
-            "docId": "Chat UI/Advanced Settings",
-            "unlisted": false
+            "type": "category",
+            "label": "Settings",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Basic Settings for Chat UI",
+                "href": "/docs/Chat UI/Settings/Basic Settings",
+                "docId": "Chat UI/Settings/Basic Settings",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Advanced Settings for Chat UI",
+                "href": "/docs/Chat UI/Settings/Advanced Settings",
+                "docId": "Chat UI/Settings/Advanced Settings",
+                "unlisted": false
+              }
+            ],
+            "href": "/docs/category/settings"
           },
           {
             "type": "link",
@@ -146,16 +162,22 @@
     ]
   },
   "docs": {
-    "Chat UI/Advanced Settings": {
-      "id": "Chat UI/Advanced Settings",
-      "title": "Advanced Settings",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
     "Chat UI/Models": {
       "id": "Chat UI/Models",
       "title": "Models",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Chat UI/Settings/Advanced Settings": {
+      "id": "Chat UI/Settings/Advanced Settings",
+      "title": "Advanced Settings for Chat UI",
+      "description": "For those looking to fine-tune their experience, the Chat UI's advanced settings offer detailed control over the behavior and output of the Large Language Models (LLMs). These settings allow for precise adjustments, enabling you to experiment with how different parameters affect the interaction.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Chat UI/Settings/Basic Settings": {
+      "id": "Chat UI/Settings/Basic Settings",
+      "title": "Basic Settings for Chat UI",
+      "description": "The Chat UI's basic settings provide essential tools for customizing your interaction with Large Language Models (LLMs). These settings are designed to be straightforward, offering a balance between simplicity and flexibility.",
       "sidebar": "tutorialSidebar"
     },
     "Chat UI/What is Chat UI": {

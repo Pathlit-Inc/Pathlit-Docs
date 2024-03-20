@@ -104,15 +104,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '76d'),
+    component: ComponentCreator('/docs', '8d6'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c26'),
+        component: ComponentCreator('/docs', '382'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '724'),
+            component: ComponentCreator('/docs', 'e9c'),
             routes: [
               {
                 path: '/docs/category/chat-ui',
@@ -123,6 +123,12 @@ export default [
               {
                 path: '/docs/category/getting-started',
                 component: ComponentCreator('/docs/category/getting-started', '01f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/settings',
+                component: ComponentCreator('/docs/category/settings', 'a03'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -139,14 +145,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Chat UI/Advanced Settings',
-                component: ComponentCreator('/docs/Chat UI/Advanced Settings', '7ec'),
+                path: '/docs/Chat UI/Models',
+                component: ComponentCreator('/docs/Chat UI/Models', '945'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Chat UI/Models',
-                component: ComponentCreator('/docs/Chat UI/Models', '945'),
+                path: '/docs/Chat UI/Settings/Advanced Settings',
+                component: ComponentCreator('/docs/Chat UI/Settings/Advanced Settings', 'b1b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Chat UI/Settings/Basic Settings',
+                component: ComponentCreator('/docs/Chat UI/Settings/Basic Settings', 'c44'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

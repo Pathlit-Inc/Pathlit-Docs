@@ -1,0 +1,16 @@
+{
+  "title": "Settings UI",
+  "description": "Chat UI",
+  "slug": "/category/settings-ui",
+  "permalink": "/docs/category/settings-ui",
+  "navigation": {
+    "previous": {
+      "title": "Models",
+      "permalink": "/docs/Chat UI/Models"
+    },
+    "next": {
+      "title": "Basic Settings",
+      "permalink": "/docs/Chat UI/Settings/Basic Settings"
+    }
+  }
+}

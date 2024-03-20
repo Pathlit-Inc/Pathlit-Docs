@@ -193,17 +193,17 @@
     },
     "config": "config---my-react-page-5-e-9-dcc"
   },
-  "/docs-76d": {
+  "/docs-8d6": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-1-ea-7d6"
     }
   },
-  "/docs-c26": {
+  "/docs-382": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-724": {
+  "/docs-e9c": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/chat-ui-2d0": {
@@ -214,6 +214,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-getting-started-315-9c6"
   },
+  "/docs/category/settings-a03": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-settings-98-d-f61"
+  },
   "/docs/category/tutorial---basics-d44": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basicsea-8-8c8"
@@ -222,13 +226,17 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
   },
-  "/docs/Chat UI/Advanced Settings-7ec": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chat-ui-advanced-settings-328-38f"
-  },
   "/docs/Chat UI/Models-945": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-chat-ui-models-53-c-22a"
+  },
+  "/docs/Chat UI/Settings/Advanced Settings-b1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chat-ui-settings-advanced-settings-0-ea-b54"
+  },
+  "/docs/Chat UI/Settings/Basic Settings-c44": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chat-ui-settings-basic-settings-61-e-e8b"
   },
   "/docs/Chat UI/What is Chat UI-91b": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -20,33 +20,6 @@
           "contentPathLocalized": "/Users/ritulsoni/Desktop/Pathlit-Docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "id": "Chat UI/Advanced Settings",
-              "title": "Advanced Settings",
-              "description": "",
-              "source": "@site/docs/Chat UI/Advanced Settings.md",
-              "sourceDirName": "Chat UI",
-              "slug": "/Chat UI/Advanced Settings",
-              "permalink": "/docs/Chat UI/Advanced Settings",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Chat UI/Advanced Settings.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Welcome to Pathlit Chat UI",
-                "permalink": "/docs/Chat UI/What is Chat UI"
-              },
-              "next": {
-                "title": "Models",
-                "permalink": "/docs/Chat UI/Models"
-              }
-            },
-            {
               "id": "Chat UI/Models",
               "title": "Models",
               "description": "",
@@ -65,12 +38,66 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Advanced Settings",
-                "permalink": "/docs/Chat UI/Advanced Settings"
+                "title": "Advanced Settings for Chat UI",
+                "permalink": "/docs/Chat UI/Settings/Advanced Settings"
               },
               "next": {
                 "title": "Tutorial - Basics",
                 "permalink": "/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "id": "Chat UI/Settings/Advanced Settings",
+              "title": "Advanced Settings for Chat UI",
+              "description": "For those looking to fine-tune their experience, the Chat UI's advanced settings offer detailed control over the behavior and output of the Large Language Models (LLMs). These settings allow for precise adjustments, enabling you to experiment with how different parameters affect the interaction.",
+              "source": "@site/docs/Chat UI/Settings/Advanced Settings.md",
+              "sourceDirName": "Chat UI/Settings",
+              "slug": "/Chat UI/Settings/Advanced Settings",
+              "permalink": "/docs/Chat UI/Settings/Advanced Settings",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Chat UI/Settings/Advanced Settings.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Basic Settings for Chat UI",
+                "permalink": "/docs/Chat UI/Settings/Basic Settings"
+              },
+              "next": {
+                "title": "Models",
+                "permalink": "/docs/Chat UI/Models"
+              }
+            },
+            {
+              "id": "Chat UI/Settings/Basic Settings",
+              "title": "Basic Settings for Chat UI",
+              "description": "The Chat UI's basic settings provide essential tools for customizing your interaction with Large Language Models (LLMs). These settings are designed to be straightforward, offering a balance between simplicity and flexibility.",
+              "source": "@site/docs/Chat UI/Settings/Basic Settings.md",
+              "sourceDirName": "Chat UI/Settings",
+              "slug": "/Chat UI/Settings/Basic Settings",
+              "permalink": "/docs/Chat UI/Settings/Basic Settings",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Chat UI/Settings/Basic Settings.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Settings",
+                "permalink": "/docs/category/settings"
+              },
+              "next": {
+                "title": "Advanced Settings for Chat UI",
+                "permalink": "/docs/Chat UI/Settings/Advanced Settings"
               }
             },
             {
@@ -96,8 +123,8 @@
                 "permalink": "/docs/category/chat-ui"
               },
               "next": {
-                "title": "Advanced Settings",
-                "permalink": "/docs/Chat UI/Advanced Settings"
+                "title": "Settings",
+                "permalink": "/docs/category/settings"
               }
             },
             {
@@ -424,8 +451,26 @@
                     "id": "Chat UI/What is Chat UI"
                   },
                   {
-                    "type": "doc",
-                    "id": "Chat UI/Advanced Settings"
+                    "type": "category",
+                    "label": "Settings",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Chat UI/Settings/Basic Settings"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Chat UI/Settings/Advanced Settings"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Settings Information",
+                      "slug": "/category/settings",
+                      "permalink": "/docs/category/settings"
+                    }
                   },
                   {
                     "type": "doc",
