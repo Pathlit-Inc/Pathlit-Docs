@@ -1,0 +1,27 @@
+{
+  "id": "Workflows/Workflow",
+  "title": "Workflow",
+  "description": "Pathlit AI Workflows",
+  "source": "@site/docs/Workflows/Workflow.md",
+  "sourceDirName": "Workflows",
+  "slug": "/Workflows/Workflow",
+  "permalink": "/docs/Workflows/Workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Workflows/Workflow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Workflows",
+    "permalink": "/docs/category/workflows"
+  },
+  "next": {
+    "title": "Evaluation",
+    "permalink": "/docs/category/evaluation"
+  }
+}

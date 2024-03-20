@@ -1,0 +1,16 @@
+{
+  "title": "Workflows",
+  "description": "Workflows",
+  "slug": "/category/workflows",
+  "permalink": "/docs/category/workflows",
+  "navigation": {
+    "previous": {
+      "title": "Models",
+      "permalink": "/docs/Chat UI/Models"
+    },
+    "next": {
+      "title": "Workflow",
+      "permalink": "/docs/Workflows/Workflow"
+    }
+  }
+}

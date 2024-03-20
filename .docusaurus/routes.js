@@ -104,19 +104,25 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8d6'),
+    component: ComponentCreator('/docs', 'fde'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '382'),
+        component: ComponentCreator('/docs', 'ceb'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e9c'),
+            component: ComponentCreator('/docs', '385'),
             routes: [
               {
                 path: '/docs/category/chat-ui',
                 component: ComponentCreator('/docs/category/chat-ui', '2d0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/evaluation',
+                component: ComponentCreator('/docs/category/evaluation', 'b07'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -145,6 +151,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/category/workflows',
+                component: ComponentCreator('/docs/category/workflows', '331'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/Chat UI/Models',
                 component: ComponentCreator('/docs/Chat UI/Models', '945'),
                 exact: true,
@@ -165,6 +177,12 @@ export default [
               {
                 path: '/docs/Chat UI/What is Chat UI',
                 component: ComponentCreator('/docs/Chat UI/What is Chat UI', '91b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Evaluation/',
+                component: ComponentCreator('/docs/Evaluation/', 'cfb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -231,6 +249,12 @@ export default [
               {
                 path: '/docs/tutorial-extras/translate-your-site',
                 component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Workflows/Workflow',
+                component: ComponentCreator('/docs/Workflows/Workflow', '4e5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

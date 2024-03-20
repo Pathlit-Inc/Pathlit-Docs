@@ -42,8 +42,8 @@
                 "permalink": "/docs/Chat UI/Settings/Advanced Settings"
               },
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "Workflows",
+                "permalink": "/docs/category/workflows"
               }
             },
             {
@@ -125,6 +125,33 @@
               "next": {
                 "title": "Settings",
                 "permalink": "/docs/category/settings"
+              }
+            },
+            {
+              "id": "Evaluation/Evaluation",
+              "title": "Evaluation",
+              "description": "Pathlit AI Evaluation",
+              "source": "@site/docs/Evaluation/Evaluation.md",
+              "sourceDirName": "Evaluation",
+              "slug": "/Evaluation/",
+              "permalink": "/docs/Evaluation/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Evaluation/Evaluation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Evaluation",
+                "permalink": "/docs/category/evaluation"
+              },
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
               }
             },
             {
@@ -409,6 +436,33 @@
                 "title": "Manage Docs Versions",
                 "permalink": "/docs/tutorial-extras/manage-docs-versions"
               }
+            },
+            {
+              "id": "Workflows/Workflow",
+              "title": "Workflow",
+              "description": "Pathlit AI Workflows",
+              "source": "@site/docs/Workflows/Workflow.md",
+              "sourceDirName": "Workflows",
+              "slug": "/Workflows/Workflow",
+              "permalink": "/docs/Workflows/Workflow",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Workflows/Workflow.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Workflows",
+                "permalink": "/docs/category/workflows"
+              },
+              "next": {
+                "title": "Evaluation",
+                "permalink": "/docs/category/evaluation"
+              }
             }
           ],
           "drafts": [],
@@ -482,6 +536,42 @@
                   "description": "Chat UI",
                   "slug": "/category/chat-ui",
                   "permalink": "/docs/category/chat-ui"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Workflows",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Workflows/Workflow"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Workflows",
+                  "slug": "/category/workflows",
+                  "permalink": "/docs/category/workflows"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Evaluation",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Evaluation/Evaluation"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Evaluation",
+                  "slug": "/category/evaluation",
+                  "permalink": "/docs/category/evaluation"
                 }
               },
               {

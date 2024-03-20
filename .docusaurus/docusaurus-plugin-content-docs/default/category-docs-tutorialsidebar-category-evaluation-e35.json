@@ -1,0 +1,16 @@
+{
+  "title": "Evaluation",
+  "description": "Evaluation",
+  "slug": "/category/evaluation",
+  "permalink": "/docs/category/evaluation",
+  "navigation": {
+    "previous": {
+      "title": "Workflow",
+      "permalink": "/docs/Workflows/Workflow"
+    },
+    "next": {
+      "title": "Evaluation",
+      "permalink": "/docs/Evaluation/"
+    }
+  }
+}

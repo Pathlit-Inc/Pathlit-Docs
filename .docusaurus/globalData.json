@@ -31,6 +31,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Evaluation/Evaluation",
+              "path": "/docs/Evaluation/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Getting Started/Installation",
               "path": "/docs/Getting Started/Installation",
               "sidebar": "tutorialSidebar"
@@ -86,6 +91,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Workflows/Workflow",
+              "path": "/docs/Workflows/Workflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/getting-started",
               "path": "/docs/category/getting-started",
               "sidebar": "tutorialSidebar"
@@ -98,6 +108,16 @@
             {
               "id": "/category/settings",
               "path": "/docs/category/settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/workflows",
+              "path": "/docs/category/workflows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/evaluation",
+              "path": "/docs/category/evaluation",
               "sidebar": "tutorialSidebar"
             },
             {
