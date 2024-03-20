@@ -109,7 +109,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Evaluation",
+            "label": "Evaluation Page Documentation",
             "href": "/docs/Evaluation/",
             "docId": "Evaluation/Evaluation",
             "unlisted": false
@@ -220,8 +220,8 @@
     },
     "Evaluation/Evaluation": {
       "id": "Evaluation/Evaluation",
-      "title": "Evaluation",
-      "description": "Pathlit AI Evaluation",
+      "title": "Evaluation Page Documentation",
+      "description": "The Evaluation Page in our platform provides a comprehensive suite of metrics to assess the performance and efficiency of specific workflows when interacting with Large Language Models (LLMs). This documentation explains the metrics and features available on the Evaluation Page, including how to use a Judge LLM to critically assess the output of your workflows.",
       "sidebar": "tutorialSidebar"
     },
     "Getting Started/Installation": {
