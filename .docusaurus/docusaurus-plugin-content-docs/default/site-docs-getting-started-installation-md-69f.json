@@ -1,0 +1,24 @@
+{
+  "id": "Getting Started/Installation",
+  "title": "LLM App Installation Guide",
+  "description": "The LLM App provides a plug-and-play solution for utilizing various HuggingFace models for a wide range of tasks such as summarizing documents, sentiment analysis, code generation, and more. This guide outlines the steps required to install and run the LLM App on different operating systems.",
+  "source": "@site/docs/Getting Started/Installation.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/Installation",
+  "permalink": "/docs/Getting Started/Installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Getting Started/Installation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/category/getting-started"
+  },
+  "next": {
+    "title": "Starting The App",
+    "permalink": "/docs/Getting Started/Starting The App"
+  }
+}

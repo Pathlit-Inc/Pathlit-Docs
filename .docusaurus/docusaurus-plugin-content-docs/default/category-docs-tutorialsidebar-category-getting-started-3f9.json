@@ -1,0 +1,16 @@
+{
+  "title": "Getting Started",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/getting-started",
+  "permalink": "/docs/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "Pathlit AI",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "LLM App Installation Guide",
+      "permalink": "/docs/Getting Started/Installation"
+    }
+  }
+}
