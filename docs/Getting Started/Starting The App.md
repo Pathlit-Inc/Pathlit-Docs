@@ -93,26 +93,98 @@ For a Kubernetes environment, build the UI with a different server DNS and port:
 
 Create a `.env` file with necessary variables and run the docker containers as instructed, adjusting paths and ports as needed.
 
-## Docker Configuration
+# Docker Configuration
 
-### Environment Variables
+## Environment Variables
 
-Create a `.env` file with the following variables:
+For configuring your Docker instance, specify the following variables in your `.env` file. This setup is crucial for ensuring your Docker environment is tailored to your specific needs.
 
-```plaintext
-LLM_GW_API_KEY
-LLM_GW_WS
-ELASTIC_DB_INDEX
-ELASTIC_OPEN_API_URL
-ELASTIC_PUBLIC_API_URL
-ELASTIC_SECRET
-ELASTIC_SECRET_ID
-ELASTIC_USER
-OPENAI_API_KEY
-EMAIL_USER
-EMAIL_PASS
-HF_KEY
-```
+<table>
+<thead>
+<tr>
+<th width="222">Variable</th>
+<th>Description</th>
+<th width="151">Type</th>
+<th>Default</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LLM_GW_API_KEY</td>
+<td>API key for LLM Gateway</td>
+<td>String</td>
+<td></td>
+</tr>
+<tr>
+<td>LLM_GW_WS</td>
+<td>WebSocket endpoint for LLM Gateway</td>
+<td>String</td>
+<td></td>
+</tr>
+<tr>
+<td>ELASTIC_DB_INDEX</td>
+<td>Index for ElasticSearch database</td>
+<td>String</td>
+<td></td>
+</tr>
+<tr>
+<td>ELASTIC_OPEN_API_URL</td>
+<td>OpenAPI URL for ElasticSearch</td>
+<td>String</td>
+<td></td>
+</tr>
+<tr>
+<td>ELASTIC_PUBLIC_API_URL</td>
+<td>Public API URL for ElasticSearch</td>
+<td>String</td>
+<td></td>
+</tr>
+<tr>
+<td>ELASTIC_SECRET</td>
+<td>Secret key for ElasticSearch</td>
+<td>String</td>
+<td></td>
+</tr>
+<tr>
+<td>ELASTIC_SECRET_ID</td>
+<td>Secret ID for ElasticSearch</td>
+<td>String</td>
+<td></td>
+</tr>
+<tr>
+<td>ELASTIC_USER</td>
+<td>Username for ElasticSearch</td>
+<td>String</td>
+<td></td>
+</tr>
+<tr>
+<td>OPENAI_API_KEY</td>
+<td>API key for OpenAI services</td>
+<td>String</td>
+<td></td>
+</tr>
+<tr>
+<td>EMAIL_USER</td>
+<td>Email account username for sending emails</td>
+<td>String</td>
+<td></td>
+</tr>
+<tr>
+<td>EMAIL_PASS</td>
+<td>Email account password for sending emails</td>
+<td>String</td>
+<td></td>
+</tr>
+<tr>
+<td>HF_KEY</td>
+<td>API key for Hugging Face models</td>
+<td>String</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+These variables play a crucial role in the functionality and security of your Dockerized application, allowing for a highly customizable and scalable environment.
 
 ### Running Docker Containers
 

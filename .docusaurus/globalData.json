@@ -11,6 +11,21 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "Chat UI/Advanced Settings",
+              "path": "/docs/Chat UI/Advanced Settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Chat UI/Models",
+              "path": "/docs/Chat UI/Models",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Chat UI/What is Chat UI",
+              "path": "/docs/Chat UI/What is Chat UI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Getting Started/Installation",
               "path": "/docs/Getting Started/Installation",
               "sidebar": "tutorialSidebar"
@@ -68,6 +83,11 @@
             {
               "id": "/category/getting-started",
               "path": "/docs/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/chat-ui",
+              "path": "/docs/category/chat-ui",
               "sidebar": "tutorialSidebar"
             },
             {

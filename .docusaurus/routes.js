@@ -104,16 +104,22 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a26'),
+    component: ComponentCreator('/docs', '76d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '341'),
+        component: ComponentCreator('/docs', 'c26'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5f7'),
+            component: ComponentCreator('/docs', '724'),
             routes: [
+              {
+                path: '/docs/category/chat-ui',
+                component: ComponentCreator('/docs/category/chat-ui', '2d0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/category/getting-started',
                 component: ComponentCreator('/docs/category/getting-started', '01f'),
@@ -129,6 +135,24 @@ export default [
               {
                 path: '/docs/category/tutorial---extras',
                 component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Chat UI/Advanced Settings',
+                component: ComponentCreator('/docs/Chat UI/Advanced Settings', '7ec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Chat UI/Models',
+                component: ComponentCreator('/docs/Chat UI/Models', '945'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Chat UI/What is Chat UI',
+                component: ComponentCreator('/docs/Chat UI/What is Chat UI', '91b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

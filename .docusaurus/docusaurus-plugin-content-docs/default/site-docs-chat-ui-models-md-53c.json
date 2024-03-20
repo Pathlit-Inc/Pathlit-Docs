@@ -1,0 +1,27 @@
+{
+  "id": "Chat UI/Models",
+  "title": "Models",
+  "description": "",
+  "source": "@site/docs/Chat UI/Models.md",
+  "sourceDirName": "Chat UI",
+  "slug": "/Chat UI/Models",
+  "permalink": "/docs/Chat UI/Models",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Chat UI/Models.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced Settings",
+    "permalink": "/docs/Chat UI/Advanced Settings"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

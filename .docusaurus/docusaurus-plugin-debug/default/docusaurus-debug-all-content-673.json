@@ -20,6 +20,87 @@
           "contentPathLocalized": "/Users/ritulsoni/Desktop/Pathlit-Docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "id": "Chat UI/Advanced Settings",
+              "title": "Advanced Settings",
+              "description": "",
+              "source": "@site/docs/Chat UI/Advanced Settings.md",
+              "sourceDirName": "Chat UI",
+              "slug": "/Chat UI/Advanced Settings",
+              "permalink": "/docs/Chat UI/Advanced Settings",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Chat UI/Advanced Settings.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Welcome to Pathlit Chat UI",
+                "permalink": "/docs/Chat UI/What is Chat UI"
+              },
+              "next": {
+                "title": "Models",
+                "permalink": "/docs/Chat UI/Models"
+              }
+            },
+            {
+              "id": "Chat UI/Models",
+              "title": "Models",
+              "description": "",
+              "source": "@site/docs/Chat UI/Models.md",
+              "sourceDirName": "Chat UI",
+              "slug": "/Chat UI/Models",
+              "permalink": "/docs/Chat UI/Models",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Chat UI/Models.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced Settings",
+                "permalink": "/docs/Chat UI/Advanced Settings"
+              },
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "id": "Chat UI/What is Chat UI",
+              "title": "Welcome to Pathlit Chat UI",
+              "description": "Introduction",
+              "source": "@site/docs/Chat UI/What is Chat UI.md",
+              "sourceDirName": "Chat UI",
+              "slug": "/Chat UI/What is Chat UI",
+              "permalink": "/docs/Chat UI/What is Chat UI",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Chat UI/What is Chat UI.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chat UI",
+                "permalink": "/docs/category/chat-ui"
+              },
+              "next": {
+                "title": "Advanced Settings",
+                "permalink": "/docs/Chat UI/Advanced Settings"
+              }
+            },
+            {
               "id": "Getting Started/Installation",
               "title": "LLM App Installation Guide",
               "description": "The LLM App provides a plug-and-play solution for utilizing various HuggingFace models for a wide range of tasks such as summarizing documents, sentiment analysis, code generation, and more. This guide outlines the steps required to install and run the LLM App on different operating systems.",
@@ -63,8 +144,8 @@
                 "permalink": "/docs/Getting Started/Installation"
               },
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "Chat UI",
+                "permalink": "/docs/category/chat-ui"
               }
             },
             {
@@ -330,6 +411,32 @@
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
                   "slug": "/category/getting-started",
                   "permalink": "/docs/category/getting-started"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Chat UI",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Chat UI/What is Chat UI"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Chat UI/Advanced Settings"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Chat UI/Models"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Chat UI",
+                  "slug": "/category/chat-ui",
+                  "permalink": "/docs/category/chat-ui"
                 }
               },
               {

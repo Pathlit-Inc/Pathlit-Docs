@@ -41,6 +41,36 @@
       },
       {
         "type": "category",
+        "label": "Chat UI",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Welcome to Pathlit Chat UI",
+            "href": "/docs/Chat UI/What is Chat UI",
+            "docId": "Chat UI/What is Chat UI",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Advanced Settings",
+            "href": "/docs/Chat UI/Advanced Settings",
+            "docId": "Chat UI/Advanced Settings",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Models",
+            "href": "/docs/Chat UI/Models",
+            "docId": "Chat UI/Models",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/chat-ui"
+      },
+      {
+        "type": "category",
         "label": "Tutorial - Basics",
         "collapsible": true,
         "collapsed": true,
@@ -116,6 +146,24 @@
     ]
   },
   "docs": {
+    "Chat UI/Advanced Settings": {
+      "id": "Chat UI/Advanced Settings",
+      "title": "Advanced Settings",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Chat UI/Models": {
+      "id": "Chat UI/Models",
+      "title": "Models",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Chat UI/What is Chat UI": {
+      "id": "Chat UI/What is Chat UI",
+      "title": "Welcome to Pathlit Chat UI",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
     "Getting Started/Installation": {
       "id": "Getting Started/Installation",
       "title": "LLM App Installation Guide",
