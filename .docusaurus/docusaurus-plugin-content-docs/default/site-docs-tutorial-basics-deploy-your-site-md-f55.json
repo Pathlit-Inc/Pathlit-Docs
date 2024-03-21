@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Markdown Features",
-    "permalink": "/Pathlit-Docs/docs/tutorial-basics/markdown-features"
+    "title": "Evaluation Page Documentation",
+    "permalink": "/Pathlit-Docs/docs/Evaluation/"
   },
   "next": {
-    "title": "Congratulations!",
-    "permalink": "/Pathlit-Docs/docs/tutorial-basics/congratulations"
+    "title": "Translate your site",
+    "permalink": "/Pathlit-Docs/docs/tutorial-extras/translate-your-site"
   }
 }

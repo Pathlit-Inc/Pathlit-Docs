@@ -193,17 +193,17 @@
     },
     "config": "config---pathlit-docs-my-react-page-5-e-9-72c"
   },
-  "/Pathlit-Docs/docs-8b0": {
+  "/Pathlit-Docs/docs-b11": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---pathlit-docs-docs-1-ea-13f"
     }
   },
-  "/Pathlit-Docs/docs-746": {
+  "/Pathlit-Docs/docs-654": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---pathlit-docs-docs-935-eb0"
   },
-  "/Pathlit-Docs/docs-39f": {
+  "/Pathlit-Docs/docs-57d": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/Pathlit-Docs/docs/category/chat-ui-bb6": {
@@ -221,14 +221,6 @@
   "/Pathlit-Docs/docs/category/settings-83c": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---pathlit-docs-docs-category-settingsf-61-dfb"
-  },
-  "/Pathlit-Docs/docs/category/tutorial---basics-68d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---pathlit-docs-docs-category-tutorial-basicsceb-1ce"
-  },
-  "/Pathlit-Docs/docs/category/tutorial---extras-75f": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---pathlit-docs-docs-category-tutorial-extras-629-282"
   },
   "/Pathlit-Docs/docs/category/workflows-f89": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -265,38 +257,6 @@
   "/Pathlit-Docs/docs/intro-8f7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---pathlit-docs-docs-intro-0-e-3-751"
-  },
-  "/Pathlit-Docs/docs/tutorial-basics/congratulations-e15": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-tutorial-basics-congratulations-822-b31"
-  },
-  "/Pathlit-Docs/docs/tutorial-basics/create-a-blog-post-b93": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-tutorial-basics-create-a-blog-post-533-f7d"
-  },
-  "/Pathlit-Docs/docs/tutorial-basics/create-a-document-449": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-tutorial-basics-create-a-document-1-e-4-17b"
-  },
-  "/Pathlit-Docs/docs/tutorial-basics/create-a-page-d67": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-tutorial-basics-create-a-page-5-c-8-336"
-  },
-  "/Pathlit-Docs/docs/tutorial-basics/deploy-your-site-1d5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-tutorial-basics-deploy-your-sitef-55-ca1"
-  },
-  "/Pathlit-Docs/docs/tutorial-basics/markdown-features-635": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-tutorial-basics-markdown-features-18-c-b85"
-  },
-  "/Pathlit-Docs/docs/tutorial-extras/manage-docs-versions-f71": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-tutorial-extras-manage-docs-versionsdff-85e"
-  },
-  "/Pathlit-Docs/docs/tutorial-extras/translate-your-site-82c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-tutorial-extras-translate-your-sitee-44-b63"
   },
   "/Pathlit-Docs/docs/Workflows/Workflow-4cd": {
     "__comp": "__comp---theme-doc-item-178-a40",

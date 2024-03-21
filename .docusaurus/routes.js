@@ -104,15 +104,15 @@ export default [
   },
   {
     path: '/Pathlit-Docs/docs',
-    component: ComponentCreator('/Pathlit-Docs/docs', '8b0'),
+    component: ComponentCreator('/Pathlit-Docs/docs', 'b11'),
     routes: [
       {
         path: '/Pathlit-Docs/docs',
-        component: ComponentCreator('/Pathlit-Docs/docs', '746'),
+        component: ComponentCreator('/Pathlit-Docs/docs', '654'),
         routes: [
           {
             path: '/Pathlit-Docs/docs',
-            component: ComponentCreator('/Pathlit-Docs/docs', '39f'),
+            component: ComponentCreator('/Pathlit-Docs/docs', '57d'),
             routes: [
               {
                 path: '/Pathlit-Docs/docs/category/chat-ui',
@@ -135,18 +135,6 @@ export default [
               {
                 path: '/Pathlit-Docs/docs/category/settings',
                 component: ComponentCreator('/Pathlit-Docs/docs/category/settings', '83c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Pathlit-Docs/docs/category/tutorial---basics',
-                component: ComponentCreator('/Pathlit-Docs/docs/category/tutorial---basics', '68d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Pathlit-Docs/docs/category/tutorial---extras',
-                component: ComponentCreator('/Pathlit-Docs/docs/category/tutorial---extras', '75f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -201,54 +189,6 @@ export default [
               {
                 path: '/Pathlit-Docs/docs/intro',
                 component: ComponentCreator('/Pathlit-Docs/docs/intro', '8f7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Pathlit-Docs/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-basics/congratulations', 'e15'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Pathlit-Docs/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-basics/create-a-blog-post', 'b93'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Pathlit-Docs/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-basics/create-a-document', '449'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Pathlit-Docs/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-basics/create-a-page', 'd67'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Pathlit-Docs/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-basics/deploy-your-site', '1d5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Pathlit-Docs/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-basics/markdown-features', '635'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Pathlit-Docs/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-extras/manage-docs-versions', 'f71'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Pathlit-Docs/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/Pathlit-Docs/docs/tutorial-extras/translate-your-site', '82c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Chat UI',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Dive into our intuitive Chat UI to interact with various Large Language Models. It's the perfect starting point for experimenting with AI-driven conversations.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Workflows',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Create and manage seamless AI workflows with our drag-and-drop interface. Design complex AI sequences without writing a single line of code.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Evaluation',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Assess and refine your AI applications with our comprehensive evaluation tools. Measure performance, accuracy, and more with ease.
       </>
     ),
   },
