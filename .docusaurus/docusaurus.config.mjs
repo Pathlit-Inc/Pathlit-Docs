@@ -11,6 +11,7 @@ export default {
   "baseUrl": "/Pathlit-Docs/",
   "organizationName": "Pathlit-Inc",
   "projectName": "Pathlit-Docs",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {

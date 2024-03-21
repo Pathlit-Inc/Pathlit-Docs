@@ -69,15 +69,15 @@ export default [
   },
   {
     path: '/Pathlit-Docs/docs',
-    component: ComponentCreator('/Pathlit-Docs/docs', 'f0f'),
+    component: ComponentCreator('/Pathlit-Docs/docs', '8b0'),
     routes: [
       {
         path: '/Pathlit-Docs/docs',
-        component: ComponentCreator('/Pathlit-Docs/docs', 'c10'),
+        component: ComponentCreator('/Pathlit-Docs/docs', '746'),
         routes: [
           {
             path: '/Pathlit-Docs/docs',
-            component: ComponentCreator('/Pathlit-Docs/docs', 'cc4'),
+            component: ComponentCreator('/Pathlit-Docs/docs', '39f'),
             routes: [
               {
                 path: '/Pathlit-Docs/docs/category/chat-ui',
@@ -146,8 +146,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Pathlit-Docs/docs/Evaluation/',
-                component: ComponentCreator('/Pathlit-Docs/docs/Evaluation/', 'bd5'),
+                path: '/Pathlit-Docs/docs/Evaluation',
+                component: ComponentCreator('/Pathlit-Docs/docs/Evaluation', '4c8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
