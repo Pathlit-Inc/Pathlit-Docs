@@ -1,272 +1,229 @@
 {
-  "/Pathlit-Docs/__docusaurus/debug-0cf": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---pathlit-docs-docusaurus-debuga-5-d-8c3"
-    }
-  },
-  "/Pathlit-Docs/__docusaurus/debug/config-7b4": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---pathlit-docs-docusaurus-debuga-5-d-8c3"
-    }
-  },
-  "/Pathlit-Docs/__docusaurus/debug/content-0e6": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---pathlit-docs-docusaurus-debuga-5-d-8c3"
-    },
-    "allContent": "allContent---pathlit-docs-docusaurus-debug-content-246-cbc"
-  },
-  "/Pathlit-Docs/__docusaurus/debug/globalData-9a9": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---pathlit-docs-docusaurus-debuga-5-d-8c3"
-    }
-  },
-  "/Pathlit-Docs/__docusaurus/debug/metadata-8a3": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---pathlit-docs-docusaurus-debuga-5-d-8c3"
-    }
-  },
-  "/Pathlit-Docs/__docusaurus/debug/registry-723": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---pathlit-docs-docusaurus-debuga-5-d-8c3"
-    }
-  },
-  "/Pathlit-Docs/__docusaurus/debug/routes-0b3": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---pathlit-docs-docusaurus-debuga-5-d-8c3"
-    }
-  },
   "/Pathlit-Docs/blog-087": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---pathlit-docs-blog-4-c-0-6f9"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---pathlit-docs-blog-814-e76",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---pathlit-docs-blog-766-e6f"
+        "content": "7661071f"
       },
       {
-        "content": "content---pathlit-docs-blogf-4-f-cf8"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---pathlit-docs-blog-871-8e7"
+        "content": "8717b14a"
       },
       {
-        "content": "content---pathlit-docs-blog-925-66f"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---pathlit-docs-blog-982-50e"
+    "metadata": "9825621e"
   },
   "/Pathlit-Docs/blog/archive-824": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---pathlit-docs-blog-4-c-0-6f9"
+      "plugin": "4c0b4458"
     },
-    "archive": "archive---pathlit-docs-blog-archivee-0-b-329"
+    "archive": "e0be95d0"
   },
   "/Pathlit-Docs/blog/first-blog-post-59c": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---pathlit-docs-blog-4-c-0-6f9"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---pathlit-docs-blog-814-e76",
-    "content": "content---pathlit-docs-blog-first-blog-poste-27-a2e"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/Pathlit-Docs/blog/long-blog-post-091": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---pathlit-docs-blog-4-c-0-6f9"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---pathlit-docs-blog-814-e76",
-    "content": "content---pathlit-docs-blog-long-blog-post-736-c1f"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/Pathlit-Docs/blog/mdx-blog-post-8d5": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---pathlit-docs-blog-4-c-0-6f9"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---pathlit-docs-blog-814-e76",
-    "content": "content---pathlit-docs-blog-mdx-blog-post-593-f35"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/Pathlit-Docs/blog/tags-766": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---pathlit-docs-blog-4-c-0-6f9"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---pathlit-docs-blog-814-e76",
-    "tags": "tags---pathlit-docs-blog-tags-3-ae-7cb"
+    "sidebar": "814f3328",
+    "tags": "3ae26e12"
   },
   "/Pathlit-Docs/blog/tags/docusaurus-e9d": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---pathlit-docs-blog-4-c-0-6f9"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---pathlit-docs-blog-814-e76",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---pathlit-docs-blog-766-e6f"
+        "content": "7661071f"
       },
       {
-        "content": "content---pathlit-docs-blogf-4-f-cf8"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---pathlit-docs-blog-871-8e7"
+        "content": "8717b14a"
       },
       {
-        "content": "content---pathlit-docs-blog-925-66f"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---pathlit-docs-blog-tags-docusaurus-294-7a3",
-    "listMetadata": "listMetadata---pathlit-docs-blog-tags-docusaurusafd-fb1"
+    "tag": "294b0591",
+    "listMetadata": "afd7d714"
   },
   "/Pathlit-Docs/blog/tags/facebook-09c": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---pathlit-docs-blog-4-c-0-6f9"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---pathlit-docs-blog-814-e76",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---pathlit-docs-blog-766-e6f"
+        "content": "7661071f"
       }
     ],
-    "tag": "tag---pathlit-docs-blog-tags-facebookd-68-17a",
-    "listMetadata": "listMetadata---pathlit-docs-blog-tags-facebookb-28-f30"
+    "tag": "d68cfc79",
+    "listMetadata": "b2818267"
   },
   "/Pathlit-Docs/blog/tags/hello-739": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---pathlit-docs-blog-4-c-0-6f9"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---pathlit-docs-blog-814-e76",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---pathlit-docs-blog-766-e6f"
+        "content": "7661071f"
       },
       {
-        "content": "content---pathlit-docs-blog-871-8e7"
+        "content": "8717b14a"
       }
     ],
-    "tag": "tag---pathlit-docs-blog-tags-hello-388-bf0",
-    "listMetadata": "listMetadata---pathlit-docs-blog-tags-hello-0-b-6-ef6"
+    "tag": "38814554",
+    "listMetadata": "0b6ef7ca"
   },
   "/Pathlit-Docs/blog/tags/hola-56f": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---pathlit-docs-blog-4-c-0-6f9"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---pathlit-docs-blog-814-e76",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---pathlit-docs-blog-925-66f"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---pathlit-docs-blog-tags-hola-6-c-9-d83",
-    "listMetadata": "listMetadata---pathlit-docs-blog-tags-holab-37-96f"
+    "tag": "6c953f21",
+    "listMetadata": "b37a920a"
   },
   "/Pathlit-Docs/blog/welcome-df3": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---pathlit-docs-blog-4-c-0-6f9"
+      "plugin": "4c0b4458"
     },
-    "sidebar": "sidebar---pathlit-docs-blog-814-e76",
-    "content": "content---pathlit-docs-blog-welcomed-9-f-1ad"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/Pathlit-Docs/markdown-page-132": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---pathlit-docs-markdown-page-14-d-f41"
+      "plugin": "14dccccd"
     },
-    "content": "content---pathlit-docs-markdown-page-393-00a"
+    "content": "393be207"
   },
   "/Pathlit-Docs/my-react-page-345": {
-    "__comp": "__comp---site-src-pages-my-react-page-jsf-85-e77",
+    "__comp": "f8551aab",
     "__context": {
-      "plugin": "plugin---pathlit-docs-markdown-page-14-d-f41"
+      "plugin": "14dccccd"
     },
-    "config": "config---pathlit-docs-my-react-page-5-e-9-72c"
+    "config": "5e9f5e1a"
   },
   "/Pathlit-Docs/docs-b11": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---pathlit-docs-docs-1-ea-13f"
+      "plugin": "1ea42fe7"
     }
   },
   "/Pathlit-Docs/docs-654": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---pathlit-docs-docs-935-eb0"
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
   },
   "/Pathlit-Docs/docs-57d": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/Pathlit-Docs/docs/category/chat-ui-bb6": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---pathlit-docs-docs-category-chat-uic-61-864"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "c6105b0c"
   },
   "/Pathlit-Docs/docs/category/evaluation-d4c": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---pathlit-docs-docs-category-evaluationa-71-862"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "a71d668f"
   },
   "/Pathlit-Docs/docs/category/getting-started-f7f": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---pathlit-docs-docs-category-getting-started-574-bfd"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "57441452"
   },
   "/Pathlit-Docs/docs/category/settings-83c": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---pathlit-docs-docs-category-settingsf-61-dfb"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f6124b75"
   },
   "/Pathlit-Docs/docs/category/workflows-f89": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---pathlit-docs-docs-category-workflowsa-48-379"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "a48825e6"
   },
   "/Pathlit-Docs/docs/Chat UI/Models-ce3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-chat-ui-models-53-c-bb0"
+    "__comp": "17896441",
+    "content": "53c210e9"
   },
   "/Pathlit-Docs/docs/Chat UI/Settings/Advanced Settings-4a9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-chat-ui-settings-advanced-settings-0-ea-39a"
+    "__comp": "17896441",
+    "content": "0ea63630"
   },
   "/Pathlit-Docs/docs/Chat UI/Settings/Basic Settings-663": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-chat-ui-settings-basic-settings-61-e-21b"
+    "__comp": "17896441",
+    "content": "61ec04ae"
   },
   "/Pathlit-Docs/docs/Chat UI/What is Chat UI-9c4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-chat-ui-what-is-chat-u-ie-54-e4b"
+    "__comp": "17896441",
+    "content": "e5434b47"
   },
   "/Pathlit-Docs/docs/Evaluation-4c8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-evaluationb-8-b-b0f"
+    "__comp": "17896441",
+    "content": "b8ba9964"
   },
   "/Pathlit-Docs/docs/Getting Started/Installation-f0e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-getting-started-installation-69-f-2d6"
+    "__comp": "17896441",
+    "content": "69f30b93"
   },
   "/Pathlit-Docs/docs/Getting Started/Starting The App-53c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-getting-started-starting-the-appd-33-d33"
+    "__comp": "17896441",
+    "content": "d3375646"
   },
   "/Pathlit-Docs/docs/intro-8f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-intro-0-e-3-751"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/Pathlit-Docs/docs/Workflows/Workflow-4cd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pathlit-docs-docs-workflows-workflow-6-eb-2b2"
+    "__comp": "17896441",
+    "content": "6eb480d0"
   },
   "/Pathlit-Docs/-465": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---pathlit-docs-markdown-page-14-d-f41"
+      "plugin": "14dccccd"
     },
-    "config": "config---pathlit-docs-my-react-page-5-e-9-72c"
+    "config": "5e9f5e1a"
   }
 }
