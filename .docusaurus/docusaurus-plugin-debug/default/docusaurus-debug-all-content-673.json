@@ -220,8 +220,8 @@
             },
             {
               "id": "Workflows/Workflow",
-              "title": "Workflow",
-              "description": "Pathlit AI Workflows",
+              "title": "Pathlit AI Workflows",
+              "description": "Overview",
               "source": "@site/docs/Workflows/Workflow.md",
               "sourceDirName": "Workflows",
               "slug": "/Workflows/Workflow",
