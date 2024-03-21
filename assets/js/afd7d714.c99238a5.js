@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpathlit_docs=self.webpackChunkpathlit_docs||[]).push([[7297],{7504:t=>{t.exports=JSON.parse('{"permalink":"/Pathlit-Docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

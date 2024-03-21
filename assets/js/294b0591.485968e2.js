@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpathlit_docs=self.webpackChunkpathlit_docs||[]).push([[349],{6161:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/Pathlit-Docs/blog/tags/docusaurus","allTagsPath":"/Pathlit-Docs/blog/tags","count":4,"unlisted":false}')}}]);
