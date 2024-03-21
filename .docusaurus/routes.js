@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/Pathlit-Docs/__docusaurus/debug',
+    component: ComponentCreator('/Pathlit-Docs/__docusaurus/debug', '0cf'),
+    exact: true
+  },
+  {
+    path: '/Pathlit-Docs/__docusaurus/debug/config',
+    component: ComponentCreator('/Pathlit-Docs/__docusaurus/debug/config', '7b4'),
+    exact: true
+  },
+  {
+    path: '/Pathlit-Docs/__docusaurus/debug/content',
+    component: ComponentCreator('/Pathlit-Docs/__docusaurus/debug/content', '0e6'),
+    exact: true
+  },
+  {
+    path: '/Pathlit-Docs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Pathlit-Docs/__docusaurus/debug/globalData', '9a9'),
+    exact: true
+  },
+  {
+    path: '/Pathlit-Docs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Pathlit-Docs/__docusaurus/debug/metadata', '8a3'),
+    exact: true
+  },
+  {
+    path: '/Pathlit-Docs/__docusaurus/debug/registry',
+    component: ComponentCreator('/Pathlit-Docs/__docusaurus/debug/registry', '723'),
+    exact: true
+  },
+  {
+    path: '/Pathlit-Docs/__docusaurus/debug/routes',
+    component: ComponentCreator('/Pathlit-Docs/__docusaurus/debug/routes', '0b3'),
+    exact: true
+  },
+  {
     path: '/Pathlit-Docs/blog',
     component: ComponentCreator('/Pathlit-Docs/blog', '087'),
     exact: true

@@ -77,7 +77,7 @@
           },
           {
             "type": "link",
-            "label": "Models",
+            "label": "Large Language Models (LLMs)",
             "href": "/Pathlit-Docs/docs/Chat UI/Models",
             "docId": "Chat UI/Models",
             "unlisted": false
@@ -196,8 +196,8 @@
   "docs": {
     "Chat UI/Models": {
       "id": "Chat UI/Models",
-      "title": "Models",
-      "description": "",
+      "title": "Large Language Models (LLMs)",
+      "description": "This document presents an organized overview of various Large Language Models (LLMs) from different creators, such as Meta, Google, and OpenAI. Here you'll find information on their specifications and intended use cases.",
       "sidebar": "tutorialSidebar"
     },
     "Chat UI/Settings/Advanced Settings": {

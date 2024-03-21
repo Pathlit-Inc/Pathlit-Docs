@@ -8,7 +8,7 @@
   "permalink": "/Pathlit-Docs/docs/Chat UI/Settings/Advanced Settings",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Chat UI/Settings/Advanced Settings.md",
+  "editUrl": "https://github.com/Pathlit-Inc/Pathlit-Docs/docs/Chat UI/Settings/Advanced Settings.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -21,7 +21,7 @@
     "permalink": "/Pathlit-Docs/docs/Chat UI/Settings/Basic Settings"
   },
   "next": {
-    "title": "Models",
+    "title": "Large Language Models (LLMs)",
     "permalink": "/Pathlit-Docs/docs/Chat UI/Models"
   }
 }
