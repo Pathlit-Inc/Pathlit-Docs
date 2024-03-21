@@ -201,8 +201,8 @@
             },
             {
               "id": "intro",
-              "title": "Pathlit AI",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "title": "Welcome to Pathlit AI",
+              "description": "Discover the cutting-edge platform designed to democratize Generative AI and accelerate innovation across industries.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
